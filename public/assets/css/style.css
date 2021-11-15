@@ -1,0 +1,6 @@
+#tasksTable,
+.table-striped>tbody>tr:nth-of-type(odd)>* {
+    color: black !important;
+    background-color: rgb(93, 178, 228) !important;
+    font-family: cursive;
+}
